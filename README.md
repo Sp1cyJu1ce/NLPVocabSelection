@@ -2,6 +2,8 @@
 
 Palabrar is an innovative Spanish learning platform that combines the essence of Tofugu and WaniKani for Spanish language learning. Our platform uses Natural Language Processing (NLP) to enhance user experience by providing tailored vocabulary lists and resource recommendations based on user input. 
 
+This was used for GeorgiaTech's Natural Language Processing (CS 4650) course's final project.
+
 ## Features
 
 - Customized Vocabulary Builder with Spaced Repetition
@@ -60,14 +62,6 @@ Palabrar is an innovative Spanish learning platform that combines the essence of
 ## Deployment
 
 The project is ready to be deployed on Vercel. Follow [Vercel's Deployment Guide](https://vercel.com/docs/deployments).
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-MIT
 
 ## Acknowledgements
 
