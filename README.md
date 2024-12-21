@@ -65,6 +65,6 @@ The project is ready to be deployed on Vercel. Follow [Vercel's Deployment Guide
 
 ## Acknowledgements
 
-- Professor Wei Xu for his invaluable guidance.
+- Professor Wei Xu for her invaluable guidance.
 - Octavio Calvo for his assistance with Spanish interpretation and structure.
 
